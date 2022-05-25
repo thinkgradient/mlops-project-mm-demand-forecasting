@@ -1,6 +1,6 @@
 ![Header](documentation/repositoryfiles/mlopsheader.jpg)
 
-# Azure MLOps (v2) Pattern: Azure Machine Learning - Classical Machine Learning
+# Azure MLOps (v2) Pattern: Azure Machine Learning - Demand Forecasting Many Mdoels
 
 This repository includes all use case specific codebase to be deployed as the inner loop for the [MLOps v2](https://github.com/Azure/mlops-v2) solution accelerator.
 
